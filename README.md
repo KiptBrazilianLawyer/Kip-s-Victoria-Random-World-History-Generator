@@ -1,4 +1,6 @@
-# Kip-s-Victoria-Random-World-History-Generator
+# Kip's Victoria Random World History Generator
+## First of all, I want to thank the creator of the mod that served as the basis for this mod: https://steamcommunity.com/sharedfiles/filedetails/?id=3564069246
+
 A procedural world generator for Victoria 3 that creates complete alternate worlds from a seed, featuring new countries, borders, populations, cultures, economies, resources, trade, technology, diplomacy, and military forces while preserving geographic coherence, balance, and playability.
 
 *(AI description)*
